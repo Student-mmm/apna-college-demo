@@ -1,4 +1,4 @@
 # apna-college-demo
 This is my first Git Repository
 <br>
-Author- Madhu Kushwaha
+Author- ritu Kushwaha
